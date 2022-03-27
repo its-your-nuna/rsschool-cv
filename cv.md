@@ -14,7 +14,7 @@
 
 ## Education
 **Suleyman Demirel University** \
-Information Systems
+Information Systems \
 Relevant Coursework: Fundamentals of Programming (Java). \
 Calculus. Linear Algebra. Computer Networks 1 (CCNA Basics). \
 Introduction to Algorithms. Front-end Course. Back-end Course 
@@ -22,10 +22,12 @@ Introduction to Algorithms. Front-end Course. Back-end Course
 ## Technical Skills
 **Tools** \
 Visual Studio Code, IntelliJ IDEA, GitHub, Oracle SQL Developer, Photoshop. \
-**Languages (Most experienced and interested)** \
+**Programming languages (Most experienced and interested)** \
 Java, SQL, HTML, CSS, JavaScript. \
-**API** \
-jQuery. 
+**Languages** 
+* English(B1) 
+* Kazakh(C1)
+* Russian(C1)
 
 ## Work experience
 **Projects** \
@@ -33,4 +35,18 @@ jQuery.
 can buy and choose flowers for themselves. The site was made in a team (3 members), has 9 pages, made through HTML, \
  CSS, JS. \
 [Levisoska.](https://its-your-nuna.github.io/levi.github.io/) A small project based on the anime "Attack on Titans". \
+
+## Code
+[description](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
+```
+function squareDigits(num){
+      var s = num.toString();
+    var s2="";
+    for(var i = 0;i<s.length;i++){
+    var n =parseInt(s.charAt(i));
+        s2+=n*n;
+    }return parseInt(s2);
+  }
+```
+
 
