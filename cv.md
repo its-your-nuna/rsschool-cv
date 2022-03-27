@@ -35,8 +35,8 @@ Java, SQL, HTML, CSS, JavaScript.
 ## Work experience
 **Projects** \
     [Flowers site.](https://its-your-nuna.github.io/WeddingFlowers.github.io/) This is an online store where customers \
-can buy and choose flowers for themselves. The site was made in a team (3 members), has 9 pages, \ made through HTML, 
- CSS, JS. \
+can buy and choose flowers for themselves. The site was made in a team (3 members), has 9 pages, \
+ made through HTML,CSS, JS. \
     [Levisoska.](https://its-your-nuna.github.io/levi.github.io/) A small project based on the anime "Attack on Titans". 
 
 ## Code
