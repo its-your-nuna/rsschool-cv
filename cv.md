@@ -1,7 +1,7 @@
 ![image](Zero.jpg)
 # Aidana Niyazbekova
 * Phone: +77758696354
-* Email: [sweetieoraidvna@gmail.com](sweetieoraidvna@gmail.com)
+* Email: sweetieoraidvna@gmail.com
 * Github: [@its-your-nuna](https://github.com/its-your-nuna) 
 * Telegram: @aidvna
 * Linkedin: [Aidana Niyazbekova](https://www.linkedin.com/in/aidana-niyazbekova-8a20ab225/)
@@ -26,7 +26,7 @@ Visual Studio Code, IntelliJ IDEA, GitHub, Oracle SQL Developer, Photoshop. \
 Java, SQL, HTML, CSS, JavaScript. 
 ## Languages
 * English(B1) 
-    * The result of english proficiency test - Intermidiate(B1)
+    * The result of english proficiency test - Intermediate(B1)
 * Kazakh(C1)
     * Native language
 * Russian(C1)
