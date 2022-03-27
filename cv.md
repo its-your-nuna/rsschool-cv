@@ -22,19 +22,22 @@ Introduction to Algorithms. Front-end Course. Back-end Course
 ## Technical Skills
 **Tools** \
 Visual Studio Code, IntelliJ IDEA, GitHub, Oracle SQL Developer, Photoshop. \
-**Programming languages (Most experienced and interested)** \
-Java, SQL, HTML, CSS, JavaScript. \
-**Languages** 
+**Programming Languages (Most experienced and interested)** \
+Java, SQL, HTML, CSS, JavaScript. 
+## Languages
 * English(B1) 
+    * The result of english proficiency test - Intermidiate(B1)
 * Kazakh(C1)
+    * Native language
 * Russian(C1)
+    * Native language
 
 ## Work experience
 **Projects** \
-[Flowers site.](https://its-your-nuna.github.io/WeddingFlowers.github.io/) This is an online store where customers \
-can buy and choose flowers for themselves. The site was made in a team (3 members), has 9 pages, made through HTML, \
+    [Flowers site.](https://its-your-nuna.github.io/WeddingFlowers.github.io/) This is an online store where customers \
+can buy and choose flowers for themselves. The site was made in a team (3 members), has 9 pages, \ made through HTML, 
  CSS, JS. \
-[Levisoska.](https://its-your-nuna.github.io/levi.github.io/) A small project based on the anime "Attack on Titans". \
+    [Levisoska.](https://its-your-nuna.github.io/levi.github.io/) A small project based on the anime "Attack on Titans". 
 
 ## Code
 [description](https://www.codewars.com/kata/546e2562b03326a88e000020/train/javascript)
