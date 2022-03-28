@@ -1,9 +1,22 @@
 *{
-    background-color: pink;
+    font-family: 'Noto Sans', sans-serif;
 }
-#h1style{
-    
+body {
+    max-width: max-content;
+    margin: auto;
+    font-size: 26px;
+    }
+#h2style{
+    border-radius: 5px;
+text-align: center;
+font-size: 28px;
+font-weight: bold;
+padding: 5px 5px;
+width: 200px;
+background: rgb(255,0,190);
+background: linear-gradient(90deg, rgba(255,0,190,1) 0%, rgba(215,27,167,1) 35%, rgba(173,52,142,1) 100%);
 }
+
 .obj{
 
 }
